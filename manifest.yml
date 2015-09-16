@@ -6,4 +6,5 @@ applications:
   buildpack: liberty-for-java
   instances: 1
   memory: 512M
+  path: liferay.war
   IBM_JVM_LICENSE: L-JWOD-9NXJQY

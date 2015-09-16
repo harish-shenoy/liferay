@@ -1,0 +1,13 @@
+<project name="liferay" default="build-war" basedir=".">
+<target name="build-war">
+
+   <war destfile="liferay.war">
+      <fileset dir=".">
+         <include name="**/*.*"/>
+      </fileset>
+      
+      
+   </war>
+   
+</target>
+</project>
