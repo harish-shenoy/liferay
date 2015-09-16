@@ -1,5 +1,5 @@
 applications:
-- disk_quota: 512M
+- disk_quota: 1024M
   host: liferayASD
   name: liferayASD
   domain: mybluemix.net
